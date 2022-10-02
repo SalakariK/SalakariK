@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning everything of computer technology
 
 
-I work as a lecturer at a vocational school in Pori. I teach installation and maintenance of linux and unix workstations, both in physical and virtual environments, e.g. Oracle VirtualBox and ProxMox. I also teach internet technology programming, i.e. full stack coding.
+I work as a lecturer at a vocational school in Pori, Finland. I teach installation and maintenance of linux and unix workstations, both in physical and virtual environments, e.g. Oracle VirtualBox and ProxMox. I also teach internet technology programming, i.e. full stack coding.
 
 I test everything first and then give instructions to the students. When the students do tasks according to the instructions, I go to help and advise them.
 
